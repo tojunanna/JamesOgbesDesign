@@ -1,0 +1,11 @@
+
+
+.changecolor{
+    animation:  colorchangethpa 1s infinite;
+}
+
+@keyframes colorchangethpa{
+    0%{color: red;}
+    25%{color: rgb(185, 233, 14);}
+    50%{ color: white;}
+    }

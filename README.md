@@ -1,2 +1,1 @@
-# JamesOgbesDesign
-jamesogbesdesign.com
+# Website
